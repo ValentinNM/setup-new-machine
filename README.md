@@ -1,89 +1,84 @@
-# setup-new-machine
+#  macOS Setup – Default Apps & CLI Tools
 
-## Software
+Track the apps and tools I install on a fresh macOS or new machine setup.
+
+---
+
+##  Categories & Apps
 
 ### Productivity
-Magnet  
-FlyCut  
-ScreenBrush  
-Alfred  
-Karabiner Elements  
-Cheatsheet  
-Choosy  
-The Unarchiver  
-PDF Expert  
-Logi Options  
-Speechify  
-Vanilla  
+- Alfred  
+- Flycut  
+- Rectangle  
+- OpenIn  
+- AsTimer  
+- Toggl Track  
+- ChatGPT  
 
-
-### Project Management
-ClickUp / Jira  
-Notion  
-Notes  
-
-
-### Storage
-Dropbox  
-One Drive  
-
-
-### Tracking
-Toggl Track  
-TimeOut  
+### Utilities & Enhancements
+- Karabiner-Elements  
+- Logitech Options+  
+- ScreenBrush  
+- PDF Expert  
+- LastPass  
+- MonitorControl  
+- Setapp  
+- Amphetamine  
 
 ### Maintenance
-CleanMyMacX   
-Stats / Macs Fan Control  
-Omni Disk Sweeper  
-AlDente  
+- CleanMyMac X  
+- Stats  
+- AlDente  
+- OmniDiskSweeper  
 
+### Microsoft Suite
+- OneDrive  
+- Teams  
+- Excel  
+- Outlook  
+- Microsoft To Do  
+
+### Notes & Knowledge
+- Notion  
+- OneNote  
 
 ### Development Tools
-Code Runner  
-xCode  
-iTerm 2 + OhMyZSH + Powerlevel10K  
-VS Code  
-Sublime Text   
-VIM + tmux  
-Postman Agent  
-JSON Viewer (extension)  
+- Visual Studio Code  
+- Cursor  
+- iTerm 2  
+- Postman  
+- Brave  
+- Chromium  
 
-### Creativity
-Final Cut Pro  
-Photoshop  
-Canva  
-VLC  
-
-
-### Social
-Teams  
-Slack  
-Discord  
-WhatsApp  
-Telegram  
-
+### CLI Tools
+- Homebrew  
+- btop  
+- awscli  
+- ffmpeg  
+- speedtest-cli  
+- git  
+- fzf  
+- Oh My Zsh  
+- python (via brew)  
+- pyenv  
+- pipenv  
+- tmux  
+- WakaTime CLI  
+- npm / nvm  
+- Docker CLI  
+- Serverless CLI  
+- Vercel CLI  
 
 ### Entertainment
-Spotify  
+- Spotify  
+- VLC  
 
+### Chat & Communication
+- WhatsApp  
+- Telegram  
+- Discord  
 
-### Utility
-Brave  
-Firefox Developer Edition  
-TOR  
-
-
-##### Chromium Extensions
- - Adblock Plus
- - Forest
- - Metamask
- - Google Translate
- - Disconnect
- - EditThisCookie
- - Ghostery
- - Greeper
- - LP
- - OneTab
- - Grammarly
- - Simple Volume Booster
+### Video Editing
+- Final Cut Pro  
+- CapCut  
+- Cap (App)
